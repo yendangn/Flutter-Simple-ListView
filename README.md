@@ -31,5 +31,5 @@
 ### Card https://docs.flutter.io/flutter/material/Card-class.html
 ### AppBar https://flutter.io/catalog/samples/basic-app-bar/
 ### Scaffold https://docs.flutter.io/flutter/material/Scaffold-class.html
-### Navigate between screen https://flutter.io/cookbook/navigation/navigation-basics/
+### Navigate between screens https://flutter.io/cookbook/navigation/navigation-basics/
 ### Image and Font: https://flutter.io/assets-and-images/
