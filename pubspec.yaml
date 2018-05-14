@@ -1,0 +1,48 @@
+name: category_app
+description: A new Flutter application.
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  assets:
+  - assets/cooking.jpg
+  - assets/travel.jpg
+  - assets/art.jpg
+  - assets/animal.jpg
+  - assets/sport.jpg
+  - assets/business.jpg
+  - assets/music.jpg
+  - assets/movie.jpg
+
+  fonts:
+      - family: Arquitecta
+        fonts:
+        - asset: fonts/latinotype-arquitecta-heavy.otf
+
+      - family: OpenSanBold
+        fonts:
+        - asset: fonts/open-sans-bold.ttf
+
+
+      - family: OpenSanRegular
+        fonts:
+        - asset: fonts/open-sans-regular.ttf
